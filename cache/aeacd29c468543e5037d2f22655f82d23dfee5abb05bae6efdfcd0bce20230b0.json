@@ -1,0 +1,57 @@
+{
+  "url": "https://jb.online/",
+  "extractions": {
+    "logo": [
+      "https://jb.online/cdn/shop/files/logo-jordan-belfort_300x300.png?v=1640734414",
+      "https://gtranslate.io/shopify/assets/flags/24/en.png",
+      "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png",
+      "https://jb.online/cdn/shop/files/remax_alternate.png?v=1640735719",
+      "https://jb.online/cdn/shop/files/toyota_alternate.png?v=1640735719",
+      "https://jb.online/cdn/shop/files/virgin_alternate.png?v=1640735719",
+      "https://jb.online/cdn/shop/files/dish_alternate.png?v=1640735719",
+      "https://jb.online/cdn/shop/files/ibm_alternate.png?v=1640735719",
+      "https://jb.online/cdn/shop/files/marriott_alternate.png?v=1640735719",
+      "https://jb.online/cdn/shop/files/ford_alternate.png?v=1640735719",
+      "https://jb.online/cdn/shop/files/p_g_alternate.png?v=1640735721",
+      "https://jb.online/cdn/shop/files/engen_alternate.png?v=1640735719",
+      "https://jb.online/cdn/shop/products/Jordan_Belfort-SLP-BOX_300x420_crop_center.png?v=1640818327",
+      "https://jb.online/cdn/shop/products/Jordan_Belfort-SLSC-box_300x420_crop_center.png?v=1640818477",
+      "https://jb.online/cdn/shop/products/Jordan_Belfort-Script-Builder-BOX_300x420_crop_center.png?v=1640818771",
+      "https://jb.online/cdn/shop/products/Jordan_Belfort-SLM-BOX_300x420_crop_center.png?v=1640818172",
+      "https://jb.online/cdn/shop/products/Jordan_Belfort-Stratton-Manual-BOX_300x420_crop_center.png?v=1640818932",
+      "https://jb.online/cdn/shop/products/Jordan_Belfort-slp-fast-track-box-english_300x420_crop_center.png?v=1640817968",
+      "https://jb.online/cdn/shop/files/img-jb-millionaire_300x300.png?v=1640734733",
+      "https://jb.online/cdn/shop/files/img-investment-guru.png?v=1640734779",
+      "https://jb.online/cdn/shop/files/img-trainer.png?v=1640734822",
+      "https://jb.online/cdn/shop/files/img-expert.png?v=1640735188",
+      "https://cdn.shopify.com/s/files/1/0570/4282/9483/files/img-ebook.png?v=1634709246",
+      "https://jb.online/cdn/shop/files/img-video1.jpg?v=1640887869",
+      "https://jb.online/cdn/shop/files/img-video2.jpg?v=1640887869",
+      "https://jb.online/cdn/shop/files/Grant_Cardone.jpg?v=1640887869",
+      "https://cdn.shopify.com/s/files/1/0570/4282/9483/files/icon-social-fb.png?v=1620954184",
+      "https://cdn.shopify.com/s/files/1/0570/4282/9483/files/icon-social-ig.png?v=1620954184",
+      "https://cdn.shopify.com/s/files/1/0570/4282/9483/files/icon-social-twitter.png?v=1620954184",
+      "https://cdn.shopify.com/s/files/1/0570/4282/9483/files/icon-social-tiktok.png?v=1620954184",
+      "https://cdn.shopify.com/s/files/1/0570/4282/9483/files/logo-footer.png?v=1620954208",
+      "https://cdn.shopify.com/s/files/1/0570/4282/9483/files/icon-heart.png?v=1620954184",
+      "https://cdn.shopify.com/s/files/1/0570/4282/9483/files/img-jb-ebook.png?v=1630273967",
+      "https://t.co/i/adsct?bci=3&eci=2&event_id=d30a3b85-ba0d-4287-b308-a3cab488448c&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=36bb9f62-43bd-4d6d-8dca-61a1f12f81f1&tw_document_href=https%3A%2F%2Fjb.online%2F&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o8290&type=javascript&version=2.3.30",
+      "https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg",
+      "https://analytics.twitter.com/i/adsct?bci=3&eci=2&event_id=d30a3b85-ba0d-4287-b308-a3cab488448c&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=36bb9f62-43bd-4d6d-8dca-61a1f12f81f1&tw_document_href=https%3A%2F%2Fjb.online%2F&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o8290&type=javascript&version=2.3.30",
+      "http://jb.online/cdn/shop/files/JB_social_image_06b11b93-9e72-4f4b-b183-c5677d5e7a70.jpg?v=1613200191",
+      "https://jb.online/cdn/shop/files/favicon_32x32.png?v=1640734459"
+    ],
+    "siteStyle": [
+      {
+        "colors": [
+          "rgb(226,173,50)",
+          "rgb(115,93,71)"
+        ],
+        "grays": [
+          "rgb(66,58,51)",
+          "rgb(34,57,98)"
+        ]
+      }
+    ]
+  }
+}

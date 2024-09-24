@@ -1,0 +1,23 @@
+{"level":"info","message":"Cache miss for URL: https://kiwikisanwindow.com/","service":"website-color-extractor","timestamp":"2024-09-24 03:17:18"}
+{"level":"info","message":"Processing URL: https://kiwikisanwindow.com/","service":"website-color-extractor","timestamp":"2024-09-24 03:17:19"}
+{"level":"info","message":"Extraction successful for URL: https://kiwikisanwindow.com/","service":"website-color-extractor","timestamp":"2024-09-24 03:17:48"}
+{"level":"info","message":"Data cached for URL: https://kiwikisanwindow.com/","service":"website-color-extractor","timestamp":"2024-09-24 03:17:48"}
+{"level":"info","message":"Cache miss for URL: https://jb.online/","service":"website-color-extractor","timestamp":"2024-09-24 03:19:42"}
+{"level":"info","message":"Processing URL: https://jb.online/","service":"website-color-extractor","timestamp":"2024-09-24 03:19:42"}
+{"level":"error","message":"Error processing URL https://jb.online/: page.goto: Timeout 60000ms exceeded.\nCall log:\n  \u001b[2m- navigating to \"https://jb.online/\", waiting until \"networkidle\"\u001b[22m\n","service":"website-color-extractor","timestamp":"2024-09-24 03:20:42"}
+{"level":"info","message":"Cache miss for URL: https://jb.online/","service":"website-color-extractor","timestamp":"2024-09-24 03:22:16"}
+{"level":"info","message":"Processing URL: https://jb.online/","service":"website-color-extractor","timestamp":"2024-09-24 03:22:16"}
+{"level":"info","message":"Extraction successful for URL: https://jb.online/","service":"website-color-extractor","timestamp":"2024-09-24 03:23:48"}
+{"level":"info","message":"Data cached for URL: https://jb.online/","service":"website-color-extractor","timestamp":"2024-09-24 03:23:48"}
+{"level":"info","message":"Cache miss for URL: https://www.bolna.dev/","service":"website-color-extractor","timestamp":"2024-09-24 03:26:04"}
+{"level":"info","message":"Processing URL: https://www.bolna.dev/","service":"website-color-extractor","timestamp":"2024-09-24 03:26:04"}
+{"level":"info","message":"Extraction successful for URL: https://www.bolna.dev/","service":"website-color-extractor","timestamp":"2024-09-24 03:26:15"}
+{"level":"info","message":"Data cached for URL: https://www.bolna.dev/","service":"website-color-extractor","timestamp":"2024-09-24 03:26:15"}
+{"level":"info","message":"Cache miss for URL: https://www.bolna.dev/","service":"website-color-extractor","timestamp":"2024-09-24 03:27:37"}
+{"level":"info","message":"Processing URL: https://www.bolna.dev/","service":"website-color-extractor","timestamp":"2024-09-24 03:27:38"}
+{"level":"info","message":"Extraction successful for URL: https://www.bolna.dev/","service":"website-color-extractor","timestamp":"2024-09-24 03:27:45"}
+{"level":"info","message":"Data cached for URL: https://www.bolna.dev/","service":"website-color-extractor","timestamp":"2024-09-24 03:27:45"}
+{"level":"info","message":"Cache miss for URL: https://aminoasylum.shop/","service":"website-color-extractor","timestamp":"2024-09-24 03:30:49"}
+{"level":"info","message":"Processing URL: https://aminoasylum.shop/","service":"website-color-extractor","timestamp":"2024-09-24 03:30:49"}
+{"level":"info","message":"Extraction successful for URL: https://aminoasylum.shop/","service":"website-color-extractor","timestamp":"2024-09-24 03:30:53"}
+{"level":"info","message":"Data cached for URL: https://aminoasylum.shop/","service":"website-color-extractor","timestamp":"2024-09-24 03:30:53"}
