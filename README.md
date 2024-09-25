@@ -2,6 +2,8 @@
 
 Website Color Extractor is a backend service that extracts primary colors and logos from a given list of websites. It uses Playwright for web scraping, Cheerio for DOM manipulation, and a custom color extraction algorithm.
 
+Created by [Utkarsh Thapliyal]
+
 ## Features
 
 - Extracts logos from `<img>`, `<meta property="og:image">`, and `<link rel="icon">` tags.
@@ -84,3 +86,7 @@ Cached data is stored in the `cache` directory. Each URL's data is hashed and sa
 ## License
 
 This project is licensed under the ISC License.
+
+## Author
+
+Utkarsh Thapliyal   - utkarshthapliyal4@gmail.com
