@@ -10,15 +10,20 @@ function assembleData(url, logos, colors) {
   return {
     url,
     extractions: {
-      logo: logos,
+      logo: logos.slice(0, 5), // Limit to top 5 logo candidates
       siteStyle: [
         {
-          colors: [colors.primaryColor, colors.mutedColor].filter(Boolean),
+          colors: [
+            colors.primaryColor,
+            colors.secondaryColor,
+            colors.accentColor,
+            colors.textColor,
+            colors.backgroundColor,
+          ].filter(Boolean), // Remove null values
           grays: colors.grayscale,
         },
       ],
     },
   };
 }
-
 module.exports = assembleData;

@@ -1,12 +1,14 @@
 # Website Color Extractor
 
-Website Color Extractor is a backend service that extracts primary colors and logos from a given list of websites. It uses Playwright for web scraping, Cheerio for DOM manipulation, and node-vibrant for color extraction.
+Website Color Extractor is a backend service that extracts primary colors and logos from a given list of websites. It uses Playwright for web scraping, Cheerio for DOM manipulation, and a custom color extraction algorithm.
 
 ## Features
 
 - Extracts logos from `<img>`, `<meta property="og:image">`, and `<link rel="icon">` tags.
-- Extracts primary and muted colors from website screenshots.
+- Extracts primary, secondary, accent, text, and background colors from website screenshots.
+- Provides grayscale colors and a full palette of extracted colors.
 - Caches results to improve performance on subsequent runs.
+- Concurrent processing of multiple URLs.
 
 ## Prerequisites
 
@@ -28,21 +30,37 @@ Website Color Extractor is a backend service that extracts primary colors and lo
     npm install
     ```
 
-3. Install Playwright:
+## Configuration
 
-    ```sh
-    npx playwright install
-    ```
+Create a `.env` file in the root directory and configure the following variables:
+
+```
+NODE_ENV=development
+PORT=3000
+HEADLESS=true
+CONCURRENT_LIMIT=5
+PAGE_LOAD_TIMEOUT=120000
+WAIT_FOR_TIMEOUT=2000
+SCREENSHOT_WIDTH=1280
+SCREENSHOT_HEIGHT=800
+PROCESSED_IMAGE_WIDTH=800
+PROCESSED_IMAGE_HEIGHT=600
+BLUR_SIGMA=1
+MIN_COLORS=7
+COLOR_AREA_THRESHOLD=0.0005
+COLOR_SIMILARITY_THRESHOLD=30
+LOG_LEVEL=info
+```
 
 ## Usage
 
-1. Run the service with a list of URLs:
+Run the service with a list of URLs:
 
-    ```sh
-    node index.js --urls "https://example.com,https://anotherexample.com"
-    ```
+```sh
+node index.js --urls "https://example.com,https://anotherexample.com"
+```
 
-    Replace the URLs with the websites you want to process.
+Replace the URLs with the websites you want to process.
 
 ## Project Structure
 

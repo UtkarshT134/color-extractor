@@ -1,3 +1,9 @@
 /node_modules
-/dist
-/public
+.env
+
+/cache/*
+!/cache/.gitkeep
+/logs/*
+!/logs/.gitkeep
+/screenshots/*
+!/screenshots/.gitkeep
